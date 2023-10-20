@@ -7,6 +7,6 @@ In this project, we designed an efficient database structure for the proposed sy
 
 
 ## Questions We Answered
-What will be stored in the database? What are the different types of objects or things that the system needs to track?
-How can we organize the data efficiently?
-How will the data be used?
+- What will be stored in the database? What are the different types of objects or things that the system needs to track?
+- How can we organize the data efficiently?
+- How will the data be used?
