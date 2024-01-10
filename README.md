@@ -1,10 +1,19 @@
-# Database_Management_Project
-In this project, we designed an efficient database structure for a proposed scholarship system using our understanding of data normalization and other database management principles. 
+# Database Management Project
+This project focuses on designing an efficient database structure for a proposed scholarship system. Leveraging our knowledge of data normalization and key database management principles, we aimed to create an efficient and scalable solution.
 
 ## Project Summary
-Identified appropriate entities, relationships, attributes, domains, and keys.
-Developed associated ER diagram. Mapped the ER diagram, and showed how data was normalized, listed integrity
-constraints. Defined the database in MySQL and insert at least 50 tuples into every table.
+
+### Key Achievements:
+- **Normalization and Integrity Constraints:** Applied normalization techniques to ensure data integrity and minimize redundancy. Listed and enforced integrity constraints to maintain data accuracy and consistency.
+- **Entity Relationship Design:** Identified and defined appropriate entities, relationships, attributes, domains, and keys for the scholarship system.
+- **ER Diagram Development:** Crafted a comprehensive Entity-Relationship (ER) diagram to visually represent the database structure and relationships between different components.
+- **Database Implementation:** Translated the conceptual ER diagram into a fully functional MySQL database. Defined tables, relationships, and constraints within the MySQL environment.
+- **Data Population:** Generated and inserted a substantial dataset, with at least 50 tuples for each table, to simulate real-world scenarios and demonstrate the database's capacity.
+
+## Additional Notes
+
+- This project serves as an educational and practical exploration of database management principles. 
+
 
 
 <img width="675" alt="image" src="https://github.com/yomashie/Database_Management_Project/assets/48233225/81b6451f-54dc-4e9f-8bca-d756fb03f60d">
@@ -14,5 +23,6 @@ constraints. Defined the database in MySQL and insert at least 50 tuples into ev
 
 <img width="530" alt="image" src="https://github.com/yomashie/Database_Management_Project/assets/48233225/337c9294-8eee-4c81-9481-8f1e9e6c63e5">
 
+<img width="489" alt="image" src="https://github.com/yomashie/Database_Management_Project/assets/48233225/110049cd-932f-4aae-aacc-c36051f46219">
 
 
