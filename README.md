@@ -4,7 +4,7 @@ This project focuses on designing an efficient database structure for a proposed
 ## Project Summary
 
 ### Key Achievements:
-- **Normalization and Integrity Constraints:** Applied normalization techniques to ensure data integrity and minimize redundancy. 
+- **Normalization:** Applied normalization techniques to ensure data integrity and minimize redundancy. 
 - **Entity Relationship Design:** Identified and defined appropriate entities, relationships, attributes, domains, and keys for the database.
 - **ER Diagram Development:** Crafted a comprehensive Entity-Relationship (ER) diagram to visually represent the database structure and relationships between different components.
 - **Database Implementation:** Translated the conceptual ER diagram into a fully functional MySQL database. Defined tables, relationships, and constraints within the MySQL environment.
