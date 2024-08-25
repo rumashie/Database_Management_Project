@@ -12,7 +12,7 @@ This project focuses on designing an efficient database structure for a proposed
 
 ## Additional Notes
 
-- This project serves as an educational and practical exploration of database management principles. To access the full slideshow presentation, navigate to the `slideshow` directory in this repository.
+- This project serves as an educational and practical exploration of database management principles. To access the full slideshow presentation, navigate to the `Database Management Proj` directory in this repository.
 
 
 
