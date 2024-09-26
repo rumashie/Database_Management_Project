@@ -1,5 +1,5 @@
 # Database Management Project
-This project focuses on designing an efficient database structure for a proposed scholarship system. Leveraging our knowledge of data normalization and key database management principles, we aimed to create an efficient and scalable solution.
+This project focuses on designing an efficient database structure for a proposed scholarship system. We aimed to create an efficient database that adheres to database management principles. 
 
 ## Project Summary
 
