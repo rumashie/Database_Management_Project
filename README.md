@@ -1,7 +1,6 @@
 # Database Management Project
 
-This project focuses on designing an efficient database structure for a proposed scholarship system, ensuring adherence to database management principles.  
-This project was part of the *Database Management* (CSCI 435) course at Hunter College.
+This project focuses on designing an efficient database structure for a proposed scholarship system, ensuring adherence to database management principles. This project was part of the *Database Management* (CSCI 435) course at Hunter College.
 
 ## Project Summary
 
